@@ -1,7 +1,7 @@
 # Welcome to Pi Consensus Trading!
 
 <br /><br /> 
-## Copy this link **https://ex-change.github.io** and paste into Pi Browser. Going live on 15 Jan. For now you see error 404
+## Copy this link **https://ex-change.github.io** and paste into Pi Browser. Going live on 15 Jan. For now you see this readme file.
 ## When prompted to share information with Pi Consensus, tap Allow
 ![](https://ex-change.github.io/images/Screenshot_20220109_171102_pi.browser.jpg)
 
