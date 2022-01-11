@@ -1,6 +1,7 @@
 # Welcome to Pi Consensus Trading!
 ## THIS IS NOT A SALE NOT A LISTING OF THE REAL PI.
 ## THIS IS CONSENSUS TRADING USING TEST-PI AND TEST $ TO DERIVE A VALUE FOR PI AS POINT OF REFERENCE FOR GOODS AND SERVICES IN THE ECOSYSTEM DURING THE ENCLOSED NETWORK PERIOD.
+> Pi, Pi Network and the Pi logo are trademarks of the Pi Community Company
 
 <br /><br /> 
 ## Copy this link **https://ex-change.github.io** and paste into Pi Browser. Going live on 15 Jan. For now you see this readme file.
