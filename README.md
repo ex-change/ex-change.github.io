@@ -32,7 +32,8 @@
 ![](https://ex-change.github.io/images/Screenshot_20220109_171736a_pi.browser.jpg)
 
 <br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
-## Select a language for your trading account secret key (mnemonic phrase).
+## Select a language for your trading account secret key (**12 words MULTI LANGUAGE mnemonic phrase**).
+## THIS IS NOT YOUR PI NETWORK PASSPHRASE which is **24 words ENGLISH ONLY**, AND NEVER REQUIRED BY CONSENSUS TRADING.
 ![](https://ex-change.github.io/images/Screenshot_20220109_171904_pi.browser.jpg)
 
 <br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
