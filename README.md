@@ -15,6 +15,8 @@
 ## Scroll down until you see either one of these:
 - I agree
 > Your registration matches your Pi username. This brings you to the Consensus Trading.
+- Link
+> For maximum security you need a private secured link to enter the trading system.
 - Register
 > You have not registered for consensus trading, or may have registered incorrect Pi username. You need to register your Pi username in the [Telegram group](https://t.me/worldofpi)
 - Current batch enabled for trading is ...
