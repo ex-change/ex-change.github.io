@@ -17,6 +17,10 @@
 > Your registration matches your Pi username. This brings you to the Consensus Trading.
 - Security Link
 > For maximum security you need a private secured link to enter the trading system.
+> If the Security Link button does not work on your browser, do this manually.
+> Tap this [Security bot](https://t.me/Pi_Consensus_Bot)
+> then type  /link  in the bot
+> then copy the given security link to browser.
 - Register
 > You have not registered for consensus trading, or may have registered incorrect Pi username. You need to register your Pi username in the [Telegram group](https://t.me/worldofpi)
 - Current batch enabled for trading is ...
