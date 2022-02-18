@@ -12,7 +12,7 @@
     console.log = function (message){return};
     console.warn = function (message){return};
     console.info = function (message){return};
-    console.error = function (message){return};
+    console.error = function (message){alert(message);return};
 
    window.onerror = function(msg, url, linenumber) {
 alert(msg);
